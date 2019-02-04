@@ -9,7 +9,8 @@ The chat will be available for signed-in users only. The messaging functionality
 Since we’re creating a simple chat app, we won’t let users create and join groups. All users will be in the same group.
 
 
-Libraries for Creating the Chat App
+# Libraries for Creating the Chat App
+
 Here’s the list of libraries that we’ll use to build the chat app:
 
 firebase – the client-side libraries for applications that use Firebase services
@@ -22,3 +23,15 @@ redux ‒ a state management library for JavaScript applications
 redux-thunk ‒ middleware that returns functions of actions
 eslint ‒ a linting utility for JavaScript applications
 relative-date – JavaScript module for outputting relative dates
+
+#### Firebase
+```
+  export const firebaseConfig = {
+  apiKey: “<API_KEY>“,
+  authDomain: “<PROJECT_ID>.firebaseapp.com”,
+  databaseURL: “https://<DATABASE_NAME>.firebaseio.com”,
+  projectId: “<PROJECT_ID>“,
+  storageBucket: “<BUCKET>.appspot.com”,
+  messagingSenderId: “<SENDER_ID>“,
+}
+```
