@@ -36,3 +36,7 @@ relative-date – JavaScript module for outputting relative dates
   messagingSenderId: “<SENDER_ID>“,
 }
 ```
+
+# Developers
+
+* [Ravi Kumar](https://github.com/Ravi-KBIHM)
