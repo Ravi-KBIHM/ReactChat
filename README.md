@@ -13,7 +13,7 @@ Since we’re creating a simple chat app, we won’t let users create and join g
 
 Here’s the list of libraries that we’ll use to build the chat app:
 
-firebase – the client-side libraries for applications that use Firebase services
+firebase – the client-side libraries for applications that use Firebase services \n
 react – a JavaScript library for building user interfaces
 react-native – a framework for building native apps with React
 react-native-i18n – a library that provides internationalization with React Native
