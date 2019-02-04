@@ -12,8 +12,8 @@ Since we’re creating a simple chat app, we won’t let users create and join g
 # Libraries for Creating the Chat App
 
 Here’s the list of libraries that we’ll use to build the chat app:
-
-firebase – the client-side libraries for applications that use Firebase services <break/>
+```
+firebase – the client-side libraries for applications that use Firebase services
 react – a JavaScript library for building user interfaces
 react-native – a framework for building native apps with React
 react-native-i18n – a library that provides internationalization with React Native
@@ -23,6 +23,7 @@ redux ‒ a state management library for JavaScript applications
 redux-thunk ‒ middleware that returns functions of actions
 eslint ‒ a linting utility for JavaScript applications
 relative-date – JavaScript module for outputting relative dates
+```
 
 #### Firebase
 ```
